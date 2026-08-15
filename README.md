@@ -22,6 +22,10 @@ The project demonstrates the interaction between software and physical hardware 
 - Hardware interfaces
 - Vending mechanism
 
+#
+![Project Screenshot](vendSpice.PNG)
+#
+
 # Key Features
 
 - Product selection
