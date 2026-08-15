@@ -10,6 +10,10 @@ The system was designed to accept user selections, process transactions, control
 
 The project demonstrates the interaction between software and physical hardware using a Raspberry Pi.
 
+#
+![Project Screenshot](kmap.PNG)
+#
+
 # System Components
 
 - Raspberry Pi
